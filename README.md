@@ -1,2 +1,2 @@
-# Musical group band name generator
+# Musical Group Band Name Generator
 Description goes here
